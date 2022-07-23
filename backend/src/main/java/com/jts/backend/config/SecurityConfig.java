@@ -1,4 +1,4 @@
-package com.jts.backend.com.jts.backend.config;
+package com.jts.backend.config;
 import java.util.Arrays;
 
 import org.springframework.context.annotation.Bean;
